@@ -12,21 +12,21 @@ This project is the second version of the Raytracer.
 
 Figures : sphere, plane, cone, cylinder, cube
 
-light : yes
+light : ✓
 
-shadows : yes
+shadows : ✓
 
-reflection: yes
+reflection: ✓
 
-refraction: yes
+refraction: ✓
 
-distance focus: yes
+distance focus: ✓
 
-export in .ini: yes
+export in .ini: ✓
 
-export in .png: yes
+export in .png: ✓
 
-multi-thread: yes
+multi-thread: ✓
 
 This second version of the raytracer know works with two windows, one for the render, the second one for the menu.
 From the menu you can access to every object from the scene, modify them, delete theme or even add new ones to your scene.
