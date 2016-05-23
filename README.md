@@ -53,3 +53,5 @@ or
 and build your own scene file !
 
 you can find scene files in the scenes folder.
+
+DevTeam: {Rotaru Iulian, Alif Matthias, Brunet Julien, Mehdi Bentorcha}
