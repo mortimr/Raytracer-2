@@ -30,7 +30,7 @@ multi-thread: yes
 
 This second version of the raytracer know works with two windows, one for the render, the second one for the menu.
 From the menu you can access to every object from the scene, modify them, delete theme or even add new ones to your scene.
-The menu also allows selecting wihich effect you would like to turn on or off, saving your work and chosing the number of threads you would like to use for rendering.
+The menu allows you to select which effect you would like to turn on or off, save your work and chose the number of threads you would like to use for rendering.
 
 ## Usage
 
@@ -44,14 +44,8 @@ and
 ./raytracer1 file_name
 ```
 
-or 
+File_name is optional, running without file lets you create your own scene from A to Z.
 
-```
-./raytracer2
-```
-
-and build your own scene file !
-
-you can find scene files in the scenes folder.
+You can find scene files in the scenes folder.
 
 DevTeam: {Rotaru Iulian, Alif Matthias, Brunet Julien, Mehdi Bentorcha}
