@@ -52,4 +52,8 @@ File_name is optional, running without file lets you create your own scene from 
 
 You can find scene files in the scenes folder.
 
-DevTeam: {Rotaru Iulian, Alif Matthias, Brunet Julien, Bentorcha Mehdi}
+DevTeam: {Rotaru Iulian, Alif Matthias, Brunet Julien}
+
+## Scores
+
+Pitch : 19
