@@ -34,9 +34,9 @@ black and white filter: ✓
 
 ![Alt Text](./.raytra.gif)
 
-This second version of the raytracer know works with two windows, one for the render, the second one for the menu.
-From the menu you can access to every object from the scene, modify them, delete theme or even add new ones to your scene.
-The menu allows you to select which effect you would like to turn on or off, save your work and chose the number of threads you would like to use for rendering.
+This second version of the raytracer now works with two windows, one for rendering, the second one for the menu.
+From the menu you can access every object from the scene, modify them, delete them or even add new ones to your scene.
+The menu allows you to select which effects you would like to turn on or off, save your work and chose the number of threads you would like to use for rendering.
 
 ## Usage
 
@@ -47,7 +47,7 @@ make
 
 and
 ```
-./raytracer1 file_name
+./raytracer2 file_name
 ```
 
 File_name is optional, running without file lets you create your own scene from A to Z.
